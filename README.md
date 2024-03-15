@@ -39,3 +39,11 @@ SO THAT I can choose a phone that's harder to break
 AS TradeTitan
 I WANT TO access a list of commissions on phones I can sell
 SO THAT I can maximize my profits
+
+## Insp iration
+
+Let's create a hypothetical phone webshop. We'll get inspired by some industry leaders in terms of layout. 
+
+apple
+google store
+samsung
