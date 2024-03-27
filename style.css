@@ -20,13 +20,20 @@ body {
 .phone-model {
     margin: 1rem 2rem;
 }
-.phone-model:hover {
+
+.phone-model-img {
+    border-radius: 25px;
+}
+.phone-model-img:hover {
     transform: scale(1.05);
     transition-duration: .2s;
 }
 
-.phone-model-img {
-    border-radius: 25px;
+.buy-container {
+    margin: 2rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 /* Tagline section */
@@ -76,5 +83,15 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+
+}
+
+/* Footer */
+
+.footer-link-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 4rem auto;
 
 }
