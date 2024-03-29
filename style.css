@@ -10,22 +10,27 @@ body {
     min-width: 400px;
 }
 
-/* Phone models section */
-.phone-models-container {
+/* Carousel section */
+
+
+
+/* Guitar models section */
+
+.guitar-models-container {
     display:flex;
     justify-content: center;
     flex-wrap: wrap;
     
 }
 
-.phone-model {
+.guitar-model {
     margin: 1rem 2rem;
 }
 
-.phone-model-img {
+.guitar-model-img {
     border-radius: 25px;
 }
-.phone-model-img:hover {
+.guitar-model-img:hover {
     transform: scale(1.05);
     transition-duration: .2s;
 }
@@ -43,7 +48,9 @@ body {
     text-align: center;
     margin: 6rem auto;
 }
+
 /* Features section */
+
 .features-container {
     display: flex;
     flex-wrap: wrap;
@@ -94,5 +101,6 @@ body {
     display: flex;
     justify-content: center;
     margin: 4rem auto;
+    background-color: #fafafa;
 
 }
