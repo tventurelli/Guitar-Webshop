@@ -44,7 +44,7 @@ body {
     width: 200px;
 }
 
-/* Guitar grid section */
+/* Guitar Page section */
 
 .guitar-grid-container {
     display:grid;
@@ -65,6 +65,16 @@ body {
     max-width: 1000px;
     border: 2px solid lightgrey;
     padding: 2rem;
+}
+
+/* Contact page section */
+
+.form-format {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 5rem;
 }
 
 /* Tagline section */
