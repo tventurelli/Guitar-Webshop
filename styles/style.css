@@ -12,7 +12,9 @@ body {
 
 /* Carousel section */
 
-
+.logo {
+    max-height: 2.5rem;
+}
 
 /* Guitar models section */
 
