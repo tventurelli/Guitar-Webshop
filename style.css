@@ -21,7 +21,6 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     
-    
 }
 
 .guitar-model {
@@ -30,6 +29,7 @@ body {
 
 .guitar-model-img {
     border-radius: 25px;
+    margin: 0.5rem;
 }
 .guitar-model-img:hover {
     transform: scale(1.05);
@@ -41,7 +41,7 @@ body {
     display: flex;
     justify-content: space-evenly;
     align-items: baseline;
-    width: 250px;
+    width: 200px;
 }
 
 /* Guitar grid section */
@@ -49,6 +49,7 @@ body {
 .guitar-grid-container {
     display:grid;
     grid-template-columns: auto auto;
+    justify-content:left;
 }
 
 .guitar-grid-image {
@@ -57,9 +58,13 @@ body {
 }
 
 .guitar-text {
-    margin: 2rem;
+    margin: 5rem;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
+    align-items:center;
+    max-width: 1000px;
+    border: 2px solid lightgrey;
+    padding: 2rem;
 }
 
 /* Tagline section */
