@@ -3,4 +3,4 @@
 ## Left
 
 Fix carousel (image size)
-
+Carousel captions
