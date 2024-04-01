@@ -133,6 +133,14 @@ body {
 
 }
 
+/* Disclaimer */
+
+.disclaimer {
+    display: flex;
+    justify-content:center;
+    width: 1325px;
+}
+
 /* Footer */
 
 .footer-link-list {
