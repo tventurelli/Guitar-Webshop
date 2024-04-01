@@ -13,18 +13,18 @@ User Types:
 
 AS Frank
 I WANT TO locate the best guitar deals
-SO THAT I can save the most amount of money
+SO THAT I can save the most money
 
 AS David
-I WANT TO pre-order the most high-end guitar
-SO THAT I can buy the most cutting-edge models and expand my collection
+I WANT TO pre-order the most high-end guitars
+SO THAT I can enjoy cutting-edge models and expand my collection
 
 AS Angus
-I WANT TO learn about the crafting details of guitar models
+I WANT TO learn about the technical and crafting details of guitar models
 SO THAT I can choose a guitar that smashes apart in the most appealing way
 
 AS GuitarMart
-I WANT TO access a list of commissions on guitars I can sell
+I WANT TO access a list of commissions on guitars I can buy and sell
 SO THAT I can maximize my profits
 
 ## Inspiration
