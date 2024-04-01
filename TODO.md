@@ -2,5 +2,6 @@
 
 ## Left
 
-Fix carousel (image size)
-Carousel captions
+/* DONE Fix carousel (image size)
+/* DONE Carousel captions
+/* DONE Readme rewrite
