@@ -49,9 +49,9 @@ body {
 /* Guitar Page section */
 
 .guitar-grid-container {
-    display:grid;
+    display: grid;
     grid-template-columns: auto auto;
-    justify-content:left;
+    justify-content: left;
 }
 
 .guitar-grid-image {
@@ -63,7 +63,7 @@ body {
     margin: 5rem;
     display: flex;
     justify-content: center;
-    align-items:center;
+    align-items: center;
     max-width: 1000px;
     border: 2px solid lightgrey;
     padding: 2rem;
@@ -118,6 +118,9 @@ body {
     .feature-box {
         width: calc(50% - 10rem);
     }
+    .footer-link-list {
+        flex-direction: row;
+    }
 }
 
 /* Call-to-action banner */
@@ -128,8 +131,11 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url("/images/guitars/calltoaction.png");
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("/images/guitars/calltoaction.png");
+    background-repeat: no-repeat;
+    background-position: top center;
     background-color: #3d3a3a;
+    background-size: cover;
     color: lightgrey;
 
 }
@@ -141,7 +147,9 @@ body {
 .footer-link-list {
     list-style: none;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     margin: 4rem auto;
     background-color: #fafafa;
 
