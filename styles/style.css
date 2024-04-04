@@ -114,12 +114,9 @@ body {
 
 
 
-@media screen and (min-width:768px) {
+@media screen and (min-width: 768px) {
     .feature-box {
         width: calc(50% - 10rem);
-    }
-    .footer-link-list {
-        flex-direction: row;
     }
 }
 
@@ -150,7 +147,16 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 4rem auto;
     background-color: #fafafa;
+    border: 1px solid #777;
+    border-radius: 3px;
+    color: black;
+    margin: 2rem auto;
 
+}
+
+@media screen and (min-width: 768px) {
+    .footer-link-list {
+        flex-direction: row;
+    }
 }
