@@ -8,6 +8,7 @@ body {
     background-color: rgb(210, 255, 212);
     background-image: linear-gradient(to bottom right, rgb(219, 255, 219), rgb(220, 231, 253));
     min-width: 400px;
+    font-family: Roboto;
 }
 
 /* Carousel section */
@@ -84,6 +85,7 @@ body {
 .tagline-container {
     text-align: center;
     margin: 6rem auto;
+    background: linear-gradient(to bottom right, rgba(231, 206, 255, 0.2), rgba(172, 172, 172, 0.2));
 }
 
 /* Features section */
