@@ -1,6 +1,6 @@
 # Guitar Webshop
 
-Hosting link: https://tventurelli.github.io/Project-one/.
+Hosting link: https://tventurelli.github.io/Guitar-Webshop/.
 
 ## User Stories
 
