@@ -1,6 +1,6 @@
-# Guitar Webshop
+Hosting link: https://tventurelli.github.io/Guitar-Webshop/
 
-Hosting link: https://tventurelli.github.io/Guitar-Webshop/.
+# Guitar Webshop
 
 ## User Stories
 
