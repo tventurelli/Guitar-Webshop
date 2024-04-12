@@ -9,13 +9,22 @@ body {
     background-image: linear-gradient(to bottom right, rgb(219, 255, 219), rgb(220, 231, 253));
     min-width: 400px;
     font-family: Roboto;
+
+/* Favicon styles */
+    .logo {
+        max-height: 2.5rem;
+    }
 }
 
 /* Carousel section */
 
-.logo {
-    max-height: 2.5rem;
+.carousel-caption {
+    
+    background-color:rgba(0, 0, 0, 0.4);
+    font-size: 25px;
+
 }
+
 
 /* Guitar models section */
 
@@ -39,6 +48,7 @@ body {
     transition-duration: .2s;
 }
 
+/* Buy container also on Guitars page */
 .buy-container {
     margin: 1rem 1.5rem;
     display: flex;
@@ -115,6 +125,7 @@ body {
 }
 
 
+/* Feature box width changes on larger screens */
 
 @media screen and (min-width: 768px) {
     .feature-box {
@@ -139,8 +150,6 @@ body {
 
 }
 
-
-
 /* Footer */
 
 .footer-link-list {
@@ -157,6 +166,7 @@ body {
 
 }
 
+/* Footer direction changes depending on screen width */
 @media screen and (min-width: 768px) {
     .footer-link-list {
         flex-direction: row;
